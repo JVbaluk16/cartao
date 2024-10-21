@@ -1,7 +1,7 @@
 criaCartao(
     'Conto de Fadas',
     'O que a Rainha Má era da Branca de Neve?',
-    'A Rainha Má era madrasta da Branca de Neve'
+    'A Rainha Má era madrasta da Branca de Neve',
 )
 
 criaCartao(
